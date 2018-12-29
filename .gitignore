@@ -3,3 +3,6 @@ CodeCpp/*
 MNIST/*
 eigen-*/*
 openMVG/*
+Python/.ipynb_*/*
+Python/*.mat
+Python/*.npy
